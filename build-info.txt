@@ -1,0 +1,6 @@
+source: /home/fuyutsubaki/abg
+branch: master
+commit: c99dc28
+dirty: no
+config: Release
+time: 2026-08-16 02:24:09
